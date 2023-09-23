@@ -60,11 +60,7 @@ global.fgpyp = 'https://instagram.com/asa0.q?igshid=OGU0MmVlOWVjOQ=='
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
-global.wait = '_*جاري إرسال التطبيق !*_
-
-_*ادعم المطور رجاء*_
-
-https://instagram.com/asa0.q*?igshid=OGU0MmVlOWVjOQ==*'
+global.wait = '*تابع انستجرام المطور وشڪرا https://instagram.com/asa0.q*?igshid=OGU0MmVlOWVjOQ==*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
