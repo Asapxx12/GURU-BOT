@@ -56,7 +56,7 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *ASAP*
+  *ASAP 1*
 ▢ Instagram :
   •https://instagram.com/asa0.q?igshid=OGU0MmVlOWVjOQ==
 ▢ GitHub :
